@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cs9904
 - 👀 I’m interested in ...github.
-- 🌱 I’m currently learning ...githun extensions.
+- 🌱 I’m currently learning ...github extensions.
 - 💞️ I’m looking to collaborate on ...gh files 
 - 📫 How to reach me ...@cs9904gh
 - 😄 Pronouns: ...
